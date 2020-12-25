@@ -1,0 +1,4 @@
+00, Expected value of X = 0000, Acutal value of X = 0000, Right value
+01, Expected value of X = 1111, Acutal value of X = 1111, Right value
+10, Expected value of X = 1001, Acutal value of X = 1001, Right value
+11, Expected value of X = 0110, Acutal value of X = 0110, Right value
